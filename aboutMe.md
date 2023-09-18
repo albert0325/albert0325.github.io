@@ -1,3 +1,4 @@
+![photo](/assets/photo.jpg)
 
 # Education
 
