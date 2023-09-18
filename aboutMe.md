@@ -1,9 +1,9 @@
-<img src="https://github.com/albert0325/albert0325.github.io/blob/master/assets/photo.jpg?raw=true" width=20% height=20%>
+<img src="https://github.com/albert0325/albert0325.github.io/blob/master/assets/photo.jpg?raw=true" width=5% height=5%>
 
 # Education
 
  - **Bachelor** | School of Medicine, Taipei Medical University, Taiwan (2012-2019)
- - **Master of Science** | Graduate Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University (2019-2022)
+ - **Master of Science** | Graduate Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taiwan (2019-2022)
 
 # Grants
 
