@@ -1,4 +1,4 @@
-![photo](/assets/photo.jpg | width="25")
+<img src="https://github.com/albert0325/albert0325.github.io/blob/master/assets/photo.jpg" width=50% height=50%>
 
 # Education
 
