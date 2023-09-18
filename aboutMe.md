@@ -7,15 +7,19 @@
 
 # Grants
 
- - College Student Research Scholarship from Ministry of Science and Technology (MOST) (2016)
- - College Student Research Scholarship from Ministry of Science and Technology (MOST) (2018)
+ - College Student Research Scholarship, Ministry of Science and Technology (MOST) (2016)
+ - College Student Research Scholarship, Ministry of Science and Technology (MOST) (2018)
  - Studienstiftung (2022-)
    
 # Awards
 
- - Research Creativity Award from Ministry of Science and Technology (MOST) (2019)
+ - Research Creativity Award, Ministry of Science and Technology (MOST) (2019)
  - Best Poster Award in International Symposium on Evolutionary Genomics and Bioinformatics (2022)
  - Outstanding Paper Award, Graduate Institute of Biomedical Electronic and Bioinformatics, NTU, Taiwan (2021)
+
+# Experience
+
+ - Researcher, German Cancer Research Center (DKFZ) (2022-2023)
 
 # Research interests
 
