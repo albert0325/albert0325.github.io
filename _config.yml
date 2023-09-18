@@ -17,8 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutMe.pdf", title: "About me"}
-  - {file: "README.md", title: "Publication"}
+  - {title: "Publication", url: "https://scholar.google.com/citations?user=qmUPsaQAAAAJ&hl=en"}
   - {file: "CV.pdf", title: "CV"}
+  - {title: "Lab", url: "https://www.hdsu.org/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:albert0325162@gmail.com"}
