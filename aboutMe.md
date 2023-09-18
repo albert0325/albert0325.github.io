@@ -1,3 +1,4 @@
+
 # Education
 
  - **Bachelor** | School of Medicine, Taipei Medical University, Taiwan (2012-2019)
