@@ -1,4 +1,4 @@
-<img src="https://github.com/albert0325/albert0325.github.io/blob/master/assets/photo.jpg?raw=true" width=20% height=20%>
+<img src="https://raw.githubusercontent.com/albert0325/albert0325.github.io/blob/master/assets/photo.jpg" width=20% height=20%>
 
 # Education
 
