@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/albert0325/albert0325.github.io/master/assets/photo.jpg" width=20% height=20%>
+![Cover]("https://raw.githubusercontent.com/albert0325/albert0325.github.io/master/assets/photo.jpg")
 
 # Education
 
