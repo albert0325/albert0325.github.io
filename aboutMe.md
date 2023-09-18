@@ -1,4 +1,4 @@
-![photo](/assets/photo.jpg)
+![photo](/assets/photo.jpg =25x25)
 
 # Education
 
