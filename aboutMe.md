@@ -1,5 +1,4 @@
-
-![photo](https://github.com/albert0325/albert0325.github.io/assets/36259207/78e614b9-6184-41fd-a31c-1426f4f13bfd)
+<img src="https://github.com/albert0325/albert0325.github.io/blob/master/assets/photo.jpg?raw=true" width=50% height=50%>
 
 # Education
 
