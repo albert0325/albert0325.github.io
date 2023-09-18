@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "aboutMe.pdf", title: "About me"}
+  - {file: "aboutMe.md", title: "About me"}
   - {title: "Publication", url: "https://scholar.google.com/citations?user=qmUPsaQAAAAJ&hl=en"}
-  - {file: "/CV.pdf", title: "CV"}
+  - {file: "CV.pdf", title: "CV"}
   - {title: "Lab", url: "https://www.hdsu.org/"}
   - {title: "Blog", file: "blog.md"}
 
