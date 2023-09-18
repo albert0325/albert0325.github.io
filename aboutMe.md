@@ -1,4 +1,4 @@
-![Cover]("https://raw.githubusercontent.com/albert0325/albert0325.github.io/master/assets/photo.jpg")
+![Cover](https://raw.githubusercontent.com/albert0325/albert0325.github.io/master/assets/photo.jpg)
 
 # Education
 
