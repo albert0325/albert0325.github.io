@@ -2,8 +2,8 @@
 
 # Education
 
- - **Bachelor** | School of Medicine, Taipei Medical University, Taiwan (2012-2019)
- - **Master of Science** | Graduate Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taiwan (2019-2022)
+ - **Bachelor** \| School of Medicine, Taipei Medical University, Taiwan (2012-2019)
+ - **Master of Science** \| Graduate Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taiwan (2019-2022)
 
 # Grants
 
