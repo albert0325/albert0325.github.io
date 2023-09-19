@@ -2,6 +2,7 @@
 
 # Education
 
+ - Department of Physics, National Tsing Hua University, Taiwan (2011-2012)
  - **Bachelor** \| School of Medicine, Taipei Medical University, Taiwan (2012-2019)
  - **Master of Science** \| Graduate Institute of Biomedical Electronics and Bioinformatics, College of Electrical Engineering and Computer Science, National Taiwan University, Taiwan (2019-2022)
 
