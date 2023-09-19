@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutMe.md", title: "About me"}
-  - {title: "Publication", url: "https://scholar.google.com/citations?user=qmUPsaQAAAAJ&hl=en"}
+  - {title: "Publication", file: "publication.md"}
   - {title: "Lab", url: "https://www.hdsu.org/"}
   - {title: "Blog", file: "blog.md"}
 
@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:albert0325162@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/albert0325"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AlbertL91063895"}
+  - {title: Google Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=qmUPsaQAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
