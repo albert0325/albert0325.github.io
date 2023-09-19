@@ -10,7 +10,7 @@
 
  - College Student Research Scholarship, Ministry of Science and Technology (MOST) (2016)
  - College Student Research Scholarship, Ministry of Science and Technology (MOST) (2018)
- - Studienstiftung (2022-)
+ - Studienstiftung (2023-)
    
 # Awards
 
