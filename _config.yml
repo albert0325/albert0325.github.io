@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:albert0325162@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/albert0325"}
+  - {title: Github, icon: f09b, url: "https://github.com/albert0325"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AlbertL91063895"}
   - {title: Linkedin, icon: Linkedin, url: "https://www.linkedin.com/in/albert-li-52502713b/"}
   - {title: Google Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=qmUPsaQAAAAJ&hl=en"}
