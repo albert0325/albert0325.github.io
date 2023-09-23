@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:albert0325162@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/albert0325"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AlbertL91063895"}
-  - {title: Linkedin, icon: fa-brands fa-linkedin, url: "https://www.linkedin.com/in/albert-li-52502713b/"}
+  - {title: Linkedin, icon: Linkedin, url: "https://www.linkedin.com/in/albert-li-52502713b/"}
   - {title: Google Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=qmUPsaQAAAAJ&hl=en"}
 
 comments:
