@@ -24,4 +24,4 @@
 
 # Research interests
 
- - *Bioinformatics*, *Machine learning*, *Computational oncology*
+ - *Bioinformatics*, *Machine learning*, ,*Multiomics*, *Single-cell analysis*, *Computational Oncology*
