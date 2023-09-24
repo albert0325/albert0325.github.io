@@ -14,9 +14,9 @@
    
 # Awards
 
- - Research Creativity Award, Ministry of Science and Technology (MOST) (2019)
- - Best Poster Award in International Symposium on Evolutionary Genomics and Bioinformatics (2022)
- - Outstanding Paper Award, Graduate Institute of Biomedical Electronic and Bioinformatics, NTU, Taiwan (2021)
+ - Research Creativity Award, Ministry of Science and Technology, Taiwan (2019)
+ - Best Poster Award, International Symposium on Evolutionary Genomics and Bioinformatics (2022)
+ - Outstanding Paper Award, Graduate Institute of Biomedical Electronic and Bioinformatics, National Taiwan University, Taiwan (2022)
 
 # Experience
  - Research Assitant, Graduate Institute of Cancer Biology and Drug Discovery, Taipei Medical University (2015-2017)
