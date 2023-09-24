@@ -8,9 +8,9 @@
 
 # Grants
 
- - College Student Research Scholarship, Ministry of Science and Technology (MOST) (2016)
- - College Student Research Scholarship, Ministry of Science and Technology (MOST) (2018)
- - Studienstiftung (2023-)
+ - College Student Research Scholarship, Ministry of Science and Technology, Taiwan (2016)
+ - College Student Research Scholarship, Ministry of Science and Technology, Taiwan (2018)
+ - Doctoral scholarship, Studienstiftung, Germany (2023-)
    
 # Awards
 
@@ -19,7 +19,8 @@
  - Outstanding Paper Award, Graduate Institute of Biomedical Electronic and Bioinformatics, NTU, Taiwan (2021)
 
 # Experience
-
+ - Research Assitant, Graduate Institute of Cancer Biology and Drug Discovery, Taipei Medical University (2015-2017)
+ - Research Assitant, Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University (2019-2022)
  - Researcher, German Cancer Research Center (DKFZ) (2022-2023)
 
 # Research interests
