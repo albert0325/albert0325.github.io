@@ -7,8 +7,8 @@
 
 # Grants
 
- - College Student Research Scholarship, Ministry of Science and Technology, Taiwan (2016)
- - College Student Research Scholarship, Ministry of Science and Technology, Taiwan (2018)
+ - College Student Research Scholarship, Ministry of Science and Technology, Taiwan (2016-2017)
+ - College Student Research Scholarship, Ministry of Science and Technology, Taiwan (2018-2019)
  - Doctoral scholarship, Studienstiftung, Germany (2023-)
    
 # Awards
