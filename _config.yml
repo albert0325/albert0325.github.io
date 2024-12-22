@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "News", file: "news.md"}
-  - {title: "Lab", url: "https://www.hdsu.org/"}
   - {title: "Publications", file: "publication.md"}
   - {title: "CV", file: "aboutMe.md"}
 
