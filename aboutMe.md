@@ -21,7 +21,7 @@
 # Research Interests  
 
 - Cancer Genomics 
-- Tumor Heterogeneity and Evolution
+- Tumour Heterogeneity and Evolution
 - Machine Learning
 - Single-cell Technology 
  
