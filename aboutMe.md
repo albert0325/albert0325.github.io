@@ -14,23 +14,19 @@
 
 # Experience  
 
-- **Research Assistant**, Graduate Institute of Cancer Biology and Drug Discovery  
-  *Taipei Medical University, Taiwan (2015–2017)*  
+- **Research Assistant**, German Cancer Research Center (DKFZ)  
+  *Germany (2022–2023)*
 
 - **Research Assistant**, Graduate Institute of Biomedical Electronics and Bioinformatics  
   *National Taiwan University, Taiwan (2019–2022)*  
-
-- **Research Assistant**, German Cancer Research Center (DKFZ)  
-  *Germany (2022–2023)*  
-
+  
+- **Research Assistant**, Graduate Institute of Cancer Biology and Drug Discovery  
+  *Taipei Medical University, Taiwan (2015–2017)*  
 
 # Research Interests  
 
-- Cancer Genomics
- 
+- Cancer Genomics 
 - Tumor Heterogeneity and Evolution
-
-- Deep Learning
-  
+- Machine Learning
 - Single-cell Technology 
  
