@@ -23,11 +23,6 @@
 - **Research Assistant**, German Cancer Research Center (DKFZ)  
   *Germany (2022–2023)*  
 
-# Grants  
-
-- **College Student Research Scholarship**, Ministry of Science and Technology, Taiwan (2016–2017)  
-- **College Student Research Scholarship**, Ministry of Science and Technology, Taiwan (2018–2019)  
-- **Doctoral Scholarship**, Studienstiftung, Germany (2023–Present)  
 
 # Awards  
 
@@ -37,7 +32,7 @@
 
 # Research Interests  
 
-- *Cancer Genomics*  
-- *Tumor Heterogeneity and Evolution*  
-- *Deep Learning*  
-- *Single-cell Technology*  
+- Cancer Genomics* 
+- Tumor Heterogeneity and Evolution
+- Deep Learning  
+- Single-cell Technology  
