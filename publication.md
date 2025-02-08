@@ -2,8 +2,7 @@
 layout: page
 title: ""
 ---
- - **HIPSD&R-seq enables scalable genomic copy number and transcriptome profiling** 
-Jan Otoničar, Olga Lazareva, Jan-Philipp Mallm, Milena Simovic-Lorenz, George Philippos, Pooja Sant, Urja Parekh, Linda Hammann, <u>Albert Li</u>, Umut Yildiz, Mikael Marttinen, Judith Zaugg, Kyung Min Noh, Oliver Stegle & Aurélie Ernst. *Genome Biol* 2024 Dec 18;25(1):316. [[link]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03450-0)
+ - **HIPSD&R-seq enables scalable genomic copy number and transcriptome profiling**  Jan Otoničar, Olga Lazareva, Jan-Philipp Mallm, Milena Simovic-Lorenz, George Philippos, Pooja Sant, Urja Parekh, Linda Hammann, <u>Albert Li</u>, Umut Yildiz, Mikael Marttinen, Judith Zaugg, Kyung Min Noh, Oliver Stegle & Aurélie Ernst. *Genome Biol* 2024 Dec 18;25(1):316. [[link]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03450-0)
  
  - Ilia Kats, Milena Simovic-Lorenz, Hannah Sophia Schreiber, Pooja Sant, Jan-Philipp Mallm, Verena Körber, **Albert Li**, Pravin Velmurugan, Sophie Heuer, Luisa Kües, Frauke Devens, Martin Sill, Manfred Jugold, Mahmoud Moustafa, Amir Abdollahi, Frank Winkler, Andrey Korshunov, Stefan M. Pfister, Oliver Stegle & Aurélie Ernst. “**Spatio-temporal transcriptomics of chromothriptic SHH-medulloblastoma identifies multiple genetic clones that resist treatment and drive relapse**” *Nature Communications* volume 15, Article number: 10370 (2024)
    
