@@ -24,15 +24,13 @@
   *Germany (2022–2023)*  
 
 
-# Awards  
-
-- **Research Creativity Award**, Ministry of Science and Technology, Taiwan (2019)  
-- **Best Poster Award**, International Symposium on Evolutionary Genomics and Bioinformatics (2022)  
-- **Outstanding Paper Award**, Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan (2022)  
-
 # Research Interests  
 
-- Cancer Genomics* 
+- Cancer Genomics
+ 
 - Tumor Heterogeneity and Evolution
-- Deep Learning  
-- Single-cell Technology  
+
+- Deep Learning
+  
+- Single-cell Technology 
+ 
